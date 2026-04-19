@@ -1,2 +1,7 @@
 # privacy-policy
-privacy
+
+Static generic privacy policy page.
+
+## Usage
+
+Open `index.html` in a browser.
